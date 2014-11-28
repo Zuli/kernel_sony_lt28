@@ -1,0 +1,4 @@
+Configuration files can be found in arch/arm/configs.
+
+    xperia ion LT28h => fuji_csfb_aoba_defconfig
+   
